@@ -78,6 +78,7 @@
     <Content Include="app\heroes.component.html" />
     <Content Include="packages.config" />
     <Content Include="package.json" />
+    <Content Include="systemjs.config.js" />
     <Content Include="tsconfig.json" />
     <Content Include="typings.json" />
     <None Include="Web.Debug.config">
@@ -104,6 +105,7 @@
     <TypeScriptCompile Include="app\hero-detail.component.ts" />
     <TypeScriptCompile Include="app\hero.service.ts" />
     <TypeScriptCompile Include="app\hero.ts" />
+    <TypeScriptCompile Include="app\in-memory-data.service.ts" />
     <TypeScriptCompile Include="app\main.ts" />
     <TypeScriptCompile Include="app\mock-heroes.ts" />
   </ItemGroup>
