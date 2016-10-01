@@ -72,6 +72,8 @@
     <Content Include="app\app.component.html" />
     <Content Include="app\dashboard.component.css" />
     <Content Include="app\hero-detail.component.css" />
+    <Content Include="app\hero-search.component.css" />
+    <Content Include="app\hero-search.component.html" />
     <Content Include="app\heroes.component.css" />
     <Content Include="app\dashboard.component.html" />
     <Content Include="app\hero-detail.component.html" />
@@ -100,6 +102,8 @@
     <TypeScriptCompile Include="app\app.component.ts" />
     <TypeScriptCompile Include="app\app.routing.ts" />
     <TypeScriptCompile Include="app\dashboard.component.ts" />
+    <TypeScriptCompile Include="app\hero-search.component.ts" />
+    <TypeScriptCompile Include="app\hero-search.service.ts" />
     <TypeScriptCompile Include="app\heroes.component.ts" />
     <TypeScriptCompile Include="app\app.module.ts" />
     <TypeScriptCompile Include="app\hero-detail.component.ts" />
@@ -108,6 +112,7 @@
     <TypeScriptCompile Include="app\in-memory-data.service.ts" />
     <TypeScriptCompile Include="app\main.ts" />
     <TypeScriptCompile Include="app\mock-heroes.ts" />
+    <TypeScriptCompile Include="app\rxjs-extensions.ts" />
   </ItemGroup>
   <ItemGroup>
     <Service Include="{4A0DDDB5-7A95-4FBF-97CC-616D07737A77}" />
